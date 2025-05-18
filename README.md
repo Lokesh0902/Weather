@@ -8,7 +8,6 @@ A sleek and responsive weather forecasting application that allows users to sear
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
-- [Project Structure](#project-structure)
 - [Installation & Usage](#installation--usage)
 
 ## Features
@@ -43,10 +42,6 @@ A sleek and responsive weather forecasting application that allows users to sear
 4. **Rendering**:
    - The current weather information is shown at the top.
    - The hourly forecast (for the next 24 hours, with 3-hour intervals) is rendered in a scrollable view.
-
-
-<pre> ## 📁 Project Structure ``` weather-app/ ├── assets/ │ └── weather-app-screenshot.png # Screenshot used in README ├── index.html # Main HTML file ├── style.css # CSS styling for the app ├── script.js # JavaScript logic for fetching and displaying weather └── README.md # Project documentation (this file) ``` </pre>
-
 
 ## Installation & Usage
 
