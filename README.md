@@ -21,7 +21,7 @@ A sleek and responsive weather forecasting application that allows users to sear
 
 ## 🖼️ Preview
 
-<img src="https://github.com/user-attachments/assets/ac49eb16-912e-4ce0-bd68-1a579d325a4f" alt="Weather App UI" width="500"/>
+<img src="[assets/weather-app-screenshot.png](https://github.com/user-attachments/assets/ac49eb16-912e-4ce0-bd68-1a579d325a4f)" alt="Weather App UI" style="max-width: 100%; width: 500px;">
 
 ## Technologies Used
 
