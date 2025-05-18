@@ -9,7 +9,7 @@ A sleek and responsive weather forecasting application that allows users to sear
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Installation & Usage](#installation--usage)
-- [Live demo](#live-demo)
+- [Live Demo](#live-demo)
 
 ## Features
 
@@ -44,6 +44,7 @@ A sleek and responsive weather forecasting application that allows users to sear
    - The current weather information is shown at the top.
    - The hourly forecast (for the next 24 hours, with 3-hour intervals) is rendered in a scrollable view.
 
+
 ## Installation & Usage
 
 1. **Clone the repository:**
@@ -64,6 +65,8 @@ A sleek and responsive weather forecasting application that allows users to sear
    
 5. Open the index.html file in your browser to launch the app and start checking the weather!
 
-##Live demo
+## Live Demo
 
-You can try the Weather App live here: [Weather App Live Demo](https://lokesh0902.github.io/Weather/)
+Try the Weather App live here:  
+[Weather App Live Demo](https://lokesh0902.github.io/Weather/)
+
