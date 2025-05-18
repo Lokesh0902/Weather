@@ -49,7 +49,7 @@ A sleek and responsive weather forecasting application that allows users to sear
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Lokesh0902/Weather.git
    cd weather-app
 ## 🔑 Obtain an API Key
 
