@@ -9,6 +9,7 @@ A sleek and responsive weather forecasting application that allows users to sear
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Installation & Usage](#installation--usage)
+- [Live demo](#live-demo)
 
 ## Features
 
@@ -63,5 +64,6 @@ A sleek and responsive weather forecasting application that allows users to sear
    
 5. Open the index.html file in your browser to launch the app and start checking the weather!
 
+##Live demo
 
-
+You can try the Weather App live here: [Weather App Live Demo](https://lokesh0902.github.io/Weather/)
