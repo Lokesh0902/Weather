@@ -20,8 +20,10 @@ A sleek and responsive weather forecasting application that allows users to sear
 - **Error Handling**: Alerts the user if the city is not found or if there is an issue fetching data.
 
 ## 🖼️ Preview
+<p align="center">
+  <img src="[assets/weather-app-screenshot.png](https://github.com/user-attachments/assets/ac49eb16-912e-4ce0-bd68-1a579d325a4f)" alt="Weather App UI" width="500">
+</p>
 
-<img src="[assets/weather-app-screenshot.png](https://github.com/user-attachments/assets/ac49eb16-912e-4ce0-bd68-1a579d325a4f)" alt="Weather App UI" style="max-width: 100%; width: 500px;">
 
 ## Technologies Used
 
