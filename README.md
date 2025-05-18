@@ -48,10 +48,10 @@ A sleek and responsive weather forecasting application that allows users to sear
 
 weather-app/
 │
-├── index.html        # Main HTML page
-├── style.css         # Stylesheet with glassmorphism UI
-├── script.js         # JavaScript for fetching & rendering weather data
-└── README.md         # Project documentation
+├── index.html
+├── style.css
+├── script.js       
+└── README.md
 
 ## Installation & Usage
 
