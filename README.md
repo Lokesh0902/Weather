@@ -48,11 +48,12 @@ A sleek and responsive weather forecasting application that allows users to sear
 
 weather-app/
 ├── assets/
-│ └── weather-app-screenshot.png # Screenshot used in README
-├── index.html # Main HTML file
-├── style.css # CSS styling for the app
-├── script.js # JavaScript logic for fetching and displaying weather
-└── README.md # Project documentation (this file)
+│   └── weather-app-screenshot.png   # Screenshot used in README
+├── index.html                       # Main HTML file
+├── style.css                        # CSS styling for the app
+├── script.js                        # JavaScript logic for fetching and displaying weather
+└── README.md                        # Project documentation (this file)
+
 
 ## Installation & Usage
 
