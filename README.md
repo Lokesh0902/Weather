@@ -19,16 +19,15 @@ A sleek and responsive weather forecasting application that allows users to sear
 - **Responsive UI**: Modern, glassmorphism-inspired design that works on both desktop and mobile devices.
 - **Error Handling**: Alerts the user if the city is not found or if there is an issue fetching data.
 
-## Demo
-  
-![Screenshot 2025-05-18 101455](https://github.com/user-attachments/assets/78ebf0ca-38cb-4da7-bd9c-69bbbf69dac5)
+## 🖼️ Preview
 
+<img src="https://github.com/user-attachments/assets/ac49eb16-912e-4ce0-bd68-1a579d325a4f" alt="Weather App UI" width="500"/>
 
 ## Technologies Used
 
 - **HTML5** – For structure and markup.
-- **CSS3** – For styling, including glassmorphism effects and responsive design.
-- **JavaScript (Vanilla)** – For fetching data from the API and updating the DOM.
+- **CSS3** – For styling and responsive design.
+- **JavaScript** – For fetching data from the API and updating the DOM.
 - **[OpenWeatherMap API](https://openweathermap.org/)** – To retrieve weather data.
 
 ## How It Works
@@ -47,11 +46,11 @@ A sleek and responsive weather forecasting application that allows users to sear
 ## Project Structure
 
 weather-app/
-├── index.html # Main HTML file
-├── style.css # Styling with glassmorphism and responsive design
-├── script.js # JavaScript for API calls and DOM manipulation
-└── preview.png # App screenshot (optional, for demo purposes)
-
+│
+├── index.html        # Main HTML page
+├── style.css         # Stylesheet with glassmorphism UI
+├── script.js         # JavaScript for fetching & rendering weather data
+└── README.md         # Project documentation
 
 ## Installation & Usage
 
@@ -61,16 +60,17 @@ weather-app/
    cd weather-app
 ## 🔑 Obtain an API Key
 
-1. Sign up at [OpenWeatherMap](https://openweathermap.org/api) to get your **free API key**.
+2. Sign up at [OpenWeatherMap](https://openweathermap.org/api) to get your **free API key**.
 
 ## ⚙️ Setup the Project
 
-2. Open the `script.js` file in your project directory.
+3. Open the `script.js` file in your project directory.
 
-3. Locate the line with the API key:
+4. Locate the line with the API key and change it with your API Key:
    ```javascript
    const apiKey = "YOUR_API_KEY_HERE";
-4. Open the index.html file in your browser to launch the app and start checking the weather!
+   
+5. Open the index.html file in your browser to launch the app and start checking the weather!
 
 
 
